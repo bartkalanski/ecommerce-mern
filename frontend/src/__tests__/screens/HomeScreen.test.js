@@ -2,7 +2,7 @@ import React from 'react'
 import { shallow, mount } from "enzyme";
 import HomeScreen from '../../screens/HomeScreen';
 
-describe("Header components", () => {
+describe("HomeScreen component", () => {
   let wrapper;
 
   beforeEach(() => {
